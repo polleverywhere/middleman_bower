@@ -1,6 +1,6 @@
-# Middleman::Bower
+# Middleman Bower
 
-Use [bower](http://bower.io/) to manage [front-end assets and dependencies](http://sindresorhus.com/bower-components/) with [Middleman](http://middlemanapp.com/).
+Use [bower](http://bower.io/) to manage [front-end assets and dependencies](http://sindresorhus.com/bower-components/) in [Middleman](http://middlemanapp.com/).
 
 ## Installation
 
