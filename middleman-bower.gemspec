@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["brad@polleverywhere.com"]
   spec.description   = %q{Manage front-end assets and dependencies with bower.}
   spec.summary       = %q{Stop copying and pasting JavaScript files into your projects and start using Bower to manage dependencies.}
-  spec.homepage      = "https://github.com/polleverywhere/middleman-bower"
+  spec.homepage      = "https://github.com/polleverywhere/middleman_bower"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
