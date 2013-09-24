@@ -39,7 +39,7 @@ Its probably a good idea to keep your bower assets stashed away in the directory
 
 ```json
 {
-  "directory": "vendor/assets/bower",
+  "directory": "vendor/assets/bower"
 }
 ```
 
